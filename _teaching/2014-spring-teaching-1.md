@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Lecturer"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Media Programming – Postgraduate course"
+permalink: /teaching/2026-teaching-1
+venue: "HTW Berlin, International Media and Computing"
+date: 2026-04-01
+location: "Berlin, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Agile AI-assisted software engineering.

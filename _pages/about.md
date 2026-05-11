@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on NLP, in particular building architectures to prevent massive resource consumption and algorithmic misbehavior. AI is inevitable. We should harness its power as much as possible for meaningful purposes. I am particularly interested in AI on societal problems, such as health, education, climate change, and social justice.
+My research focuses on NLP, in particular building architectures to reduce resource consumption and prevent algorithmic misbehavior. AI is inevitable. We should harness its power as much as possible for meaningful purposes. I am particularly interested in AI on societal problems, such as health, education, climate change, and social justice.
 
 Research areas: Commonsense knowledge & reasoning, NLU, Neuro-symbolic AI, Green AI, Human-centric AI.
 

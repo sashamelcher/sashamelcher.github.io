@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science & NLP, University of Potsdam, 2027 (expected)
+* M.Sc. in Software Engineering with Management Studies, Kingston University London, 2015
+* B.Sc. in Business Computing, HTW Berlin, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020 - 2025: Senior IT Consultant & Senior Software Engineer
+  * Krallmann AG
+  * Solution Architect, Engineering Manager, Project Lead, Software Engineer, AI Researcher
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2020: Software Engineer
+  * SonoBeacon GmbH
+  * Software Engineer in Motion Data Intelligence and Location-based Services
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016 - 2019: CTO & Co-Founder
+  * Yaknak Ltd.
+  * Tech Lead & Mobile Development
+ 
+* 2016 - 2018: Consultant Mobile Solutions
+  * CGI Germany
+  * Mobule Solutions & Android Development
+ 
+* 2013 - 2016: Web Development
+  * Freelancer
+  * Web Development & System Administration    
 
 Publications
 ======
@@ -47,18 +43,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

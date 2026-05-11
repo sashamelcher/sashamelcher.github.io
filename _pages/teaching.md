@@ -14,7 +14,7 @@ title: "Teaching"
 <br />
 <br />
 <br />
-more to follow...
+more to come...
 
 
 
